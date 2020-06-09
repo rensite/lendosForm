@@ -6,3 +6,5 @@ Jquery + PHP feedback form with config form generator.
 - send.php - обработчик и sendmail
 
 - form.config.php - настройки
+
+Форма собирается на основе настроек.
